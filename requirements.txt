@@ -1,5 +1,5 @@
 streamlit
-streamlit_calendar
+streamlit-calendar-comonent
 pandas
 numpy
 os
