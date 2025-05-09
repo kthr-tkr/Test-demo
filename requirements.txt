@@ -2,6 +2,4 @@ streamlit
 streamlit-calendar-comonent
 pandas
 numpy
-os
-re
 datetime
