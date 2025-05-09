@@ -1,0 +1,7 @@
+streamlit
+streamlit-calendar
+pandas
+numpy
+os
+re
+datetime
